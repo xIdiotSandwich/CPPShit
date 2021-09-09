@@ -1,5 +1,7 @@
-kpjkojkom, jbhi jbhj io
- jbji njkjbko
- bjiho
- bh hui
- 
+#include<iostream>
+
+main(){
+
+	std::cout<< "Sajad ist ein Knoblauch";
+	return(0);
+}
